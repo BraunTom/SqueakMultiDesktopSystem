@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"from:" : "WoC 6/21/2018 01:21",
+		"padding" : "WoC 6/20/2018 14:35",
+		"size" : "WoC 6/20/2018 14:35" },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "WoC 6/21/2018 01:26",
+		"action" : "WoC 6/19/2018 19:39",
+		"action:" : "WoC 6/19/2018 19:39",
+		"addChild:" : "WoC 6/21/2018 00:16",
+		"addDropShadow" : "WoC 6/21/2018 00:12",
+		"addImage" : "WoC 6/21/2018 01:25",
+		"desktop" : "WoC 6/21/2018 01:20",
+		"desktop:" : "WoC 6/21/2018 01:20",
+		"dropAction" : "WoC 6/21/2018 01:14",
+		"dropAction:" : "WoC 6/21/2018 01:14",
+		"handlesMouseDown:" : "WoC 6/19/2018 19:36",
+		"image" : "WoC 6/21/2018 01:21",
+		"image:" : "WoC 6/21/2018 01:21",
+		"initialize" : "WoC 6/22/2018 01:08",
+		"mouseUp:" : "WoC 6/19/2018 19:49",
+		"padding" : "WoC 6/21/2018 00:15",
+		"shadowMorph" : "WoC 6/21/2018 00:08",
+		"shadowMorph:" : "WoC 6/21/2018 00:08",
+		"updateImage" : "WoC 6/22/2018 01:08",
+		"wantsDroppedMorph:event:" : "WoC 6/21/2018 01:18" } }

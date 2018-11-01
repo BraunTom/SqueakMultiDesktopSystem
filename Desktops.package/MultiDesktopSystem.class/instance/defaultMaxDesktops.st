@@ -1,0 +1,4 @@
+accessing
+defaultMaxDesktops
+
+	^ 5

@@ -1,0 +1,14 @@
+{
+	"category" : "Desktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DesktopProject",
+	"pools" : [
+		 ],
+	"super" : "MorphicProject",
+	"type" : "normal" }

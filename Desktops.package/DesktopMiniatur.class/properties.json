@@ -1,0 +1,18 @@
+{
+	"category" : "Desktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"action",
+		"dropAction",
+		"shadowMorph",
+		"desktop",
+		"image" ],
+	"name" : "DesktopMiniatur",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

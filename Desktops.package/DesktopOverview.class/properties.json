@@ -1,0 +1,15 @@
+{
+	"category" : "Desktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"children",
+		"action" ],
+	"name" : "DesktopOverview",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

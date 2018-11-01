@@ -1,0 +1,4 @@
+OrderedDictionary {
+	'BaselineOfDesktops.package' : #SquotCypressCodeSerializer,
+	'Desktops.package' : #SquotCypressCodeSerializer
+}

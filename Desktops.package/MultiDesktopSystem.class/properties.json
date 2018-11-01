@@ -1,0 +1,19 @@
+{
+	"category" : "Desktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Instance" ],
+	"commentStamp" : "WoC 11/1/2018 14:35",
+	"instvars" : [
+		"currentDesktopNumber",
+		"persistents",
+		"menu",
+		"showMiniDesktops",
+		"projects",
+		"postNewDesktopActions" ],
+	"name" : "MultiDesktopSystem",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

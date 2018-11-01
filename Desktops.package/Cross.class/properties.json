@@ -1,0 +1,15 @@
+{
+	"category" : "Desktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"h",
+		"v" ],
+	"name" : "Cross",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

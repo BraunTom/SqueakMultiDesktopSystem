@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfDesktops",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfDesktops",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
