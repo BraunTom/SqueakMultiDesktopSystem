@@ -19,7 +19,7 @@
 		"deleteDesktop:" : "WoC 10/8/2018 22:27",
 		"deleteDesktops" : "WoC 10/15/2018 17:39",
 		"deletePostNewDesktopActionNames:" : "WoC 10/8/2018 22:47",
-		"filterEvent:for:" : "WoC 11/1/2018 14:45",
+		"filterEvent:for:" : "WoC 11/15/2018 11:05",
 		"flushPersistents" : "WoC 6/19/2018 20:12",
 		"getBackPersistents" : "WoC 6/19/2018 20:07",
 		"handle:" : "WoC 10/15/2018 17:39",
@@ -43,6 +43,7 @@
 		"registerIn:" : "WoC 6/21/2018 14:54",
 		"removePersistentItem:" : "WoC 6/19/2018 20:16",
 		"restoreMiniDesktopViewIfNeccessary" : "WoC 6/25/2018 00:46",
+		"shouldTriggerOn:" : "WoC 11/15/2018 11:09",
 		"showDesktops" : "WoC 10/15/2018 17:52",
 		"showMiniDesktops" : "WoC 6/25/2018 00:37",
 		"showMiniDesktops:" : "WoC 6/25/2018 00:37" } }
