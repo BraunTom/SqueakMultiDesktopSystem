@@ -3,7 +3,7 @@
 
 Execute following code in a workspace: 
 ``` 
-(Smalltalk at: #Metacello) new
+Metacello new
 	baseline: 'Desktops';
 	repository: 'github://BraunTom/SqueakMultiDesktopSystem:master';
 	load.
